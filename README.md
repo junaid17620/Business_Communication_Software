@@ -3,7 +3,7 @@
 Business Communication Software
 
 Welcome to the repository for the Business Communication Software!
-This project is designed to provide a seamless, user-friendly, and efficient platform for professional communication and collaboration. this makes communication easier between clients and business.
+This project is designed to provide a seamless, user-friendly, and efficient platform for professional communication and collaboration. this makes communication easier between clients and business collabrations also. 
 
 Features:
 	•	User Authentication: Secure login and registration for users, ensuring a smooth and safe experience.
